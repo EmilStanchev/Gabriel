@@ -33,7 +33,7 @@ const About = () => {
             </span>
           </h2>
           <p className="pr-5 mb-5 text-base text-gray-700 md:text-lg">
-            Hello, my name is Gabriel, a 20-year-old visionary photographer
+            Hello, my name is Gabriel, a 21-year-old visionary photographer
             hailing from Latvia. With an unyielding passion for capturing life's
             wonders through my lens, I immerse myself in the art of photography,
             transforming moments into timeless treasures with finesse and flair.
