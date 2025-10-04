@@ -29,26 +29,23 @@ View the live portfolio here <a href="https://gabriel-pi.vercel.app/" target="_b
 ## Installation & Usage
 
 <h4>To run the project locally, follow these steps:</h4>
-<ol>
-<li>Clone the Repository: 
+
+1. Clone the Repository: 
     ```bash
    git clone https://github.com/EmilStanchev/Gabriel.git
     ```
-</li>
-<li> 
-Navigate to the project directory:
+
+
+2. Navigate to the project directory:
     ```bash
     cd gabriel
     ```
-</li>
-<li>Install Dependencies: 
+
+3. Install Dependencies: 
     ```bash
     npm install
     ```
-</li>
-<li>Start the Development Server:
+4. Start the Development Server:
     ```bash 
     npm run dev 
     ```
-</li>
-</ol>
