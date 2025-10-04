@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="md:col-span-2">
             <h2 className="text-xl font-bold mb-4">About Me</h2>
             <p className="text-sm leading-relaxed">
-              Hello, my name is Gabriel, a 20-year-old visionary photographer
+              Hello, my name is Gabriel, a 22-year-old visionary photographer
               hailing from Latvia. With an unyielding passion for capturing
               life's wonders through my lens, I immerse myself in the art of
               photography, transforming moments into timeless treasures with
@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
         <hr className="my-8 border-gray-700" />
         <div className="flex items-center justify-between">
-          <p className="text-sm">&copy; 2024 Gabriel. All rights reserved.</p>
+          <p className="text-sm">&copy; 2025 Gabriel. All rights reserved.</p>
           <div className="flex justify-center items-center gap-5">
             <a
               href="https://www.youtube.com/@aangle8757"
